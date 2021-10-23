@@ -1,0 +1,18 @@
+{
+    "Fname_Pass" : ["Amit","Mahesh","Rajat","Abhijit","Ganesh"],
+    "Fname_Fail" : ["amit","m4hesh","R4j4t","ABhijit","G@nesh"],
+    "Lname_Pass" : ["Shendge","Sargar","Nikam","Shinde","Gaitonde"],
+    "Lname_Fail" : ["shendge","S4rgar","NIkam","Sh!nde","GAitonde"],
+    "Email_Pass" : ["abc@yahoo.com","abc-100@yahoo.com","abc.100@yahoo.com","abc111@abc.com","abc-100@abc.net","abc.100@abc.com.au","abc@1.com","abc@gmail.com.com","abc+100@gmail.com"],
+    "Email_Fail" : ["abc@yahoocom","abc-100yahoo.com","abc.100@yahoo.c","abc111@abccom","abc-100.net","abc.1@abc.com.au"],
+    "Phone_Pass" : ["91 9892126741","98 6547896325","12 6547896321","03 2365412589","97 8523014520","99 2266330565"],
+    "Phone_Fail" : ["9 6541236985","239874102365","1236547896","98 95959696966","95 95959595","555 6666666666"],
+    "Pass1_Pass" : ["asdFghjk","qwertyuiop","1234567890","!@#$%^&*()","          ","as!@3456  *7"],
+    "Pass1_Fail" : ["asdfghj","qwerty","12","!@#*()","   ","as!6 7"],
+    "Pass2_Pass" : ["Asdfghjk","qweRtyuiop","123456R7890","!@#$AA%^&*()","     ACS     ","as!@34A56  *7"],
+    "Pass2_Fail" : ["asdfghjk","qwertyuiop","1234567890","!@#$%^&*()","          ","as!@3456  *7"],
+    "Pass3_Pass" : ["Asdfghjk1","qwe2Rtyuiop","123456R7890","!@#$AA%3^&*()","  4   ACS     ","as!@34A56  *7"],
+    "Pass3_Fail" : ["asdf2ghjk","qwerAtyuiop","1234567890","!@#$%^&*()","           ","as!@3456  *7"],
+    "Pass4_Pass" : ["Asdfg!hjk1","qwe2Rty@uiop","12345!6R7890","!@#$AA%3^&*()","  4  @ ACS     ","as!@34A56  *7"],
+    "Pass4_Fail" : ["asdf2ghjk","qwerAtyuiop","1234567890","!@#$%^&*()","           ","as!@3456  *7"]
+}
